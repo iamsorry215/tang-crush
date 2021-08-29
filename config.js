@@ -1,9 +1,6 @@
 const CONFIG = {
     introTitle: 'Ngân iu!',
-    introDesc: 'Em là chiếc lá nhỏ
-    Anh là bầu trời xanh
-    Cái gì anh cũng có
-    Chỉ thiếu mỗi mình em.',
+    introDesc: 'Em là chiếc lá nhỏ Anh là bầu trời xanh Cái gì anh cũng có Chỉ thiếu mỗi mình em.',
     btnIntro: '=))',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
